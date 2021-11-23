@@ -67,3 +67,5 @@ plt.savefig(out_f,
 
 # show plot
 # plt.show()
+
+# %%
